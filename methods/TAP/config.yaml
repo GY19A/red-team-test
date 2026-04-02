@@ -1,0 +1,3 @@
+method: TAP
+enabled: true
+description: Tree of Attacks with Pruning workflow.

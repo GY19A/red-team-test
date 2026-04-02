@@ -1,5 +1,15 @@
 # Red Team Test Results
 
+> **WARNING: ACADEMIC RED-TEAM RESEARCH ONLY.**
+> This repository is provided solely for lawful security research and evaluation.
+> Do **not** use it for illegal, harmful, or unauthorized activity.
+> Use of this repository is at your own risk.
+> The author provides no warranty, makes no endorsement of downstream use, and assumes no liability for misuse or resulting consequences.
+> If you are unsure whether your intended use is permitted, consult qualified legal counsel before proceeding.
+> This repository is only a scaffold for organizing red-team test results.
+> The actual method code is not provided in this repository.
+> The datasets are not provided in this repository either.
+
 This repository stores red-team evaluation results for four jailbreak methods:
 
 - `Crescendo`
@@ -50,3 +60,10 @@ results/
   TAP/
   x-teaming/
 ```
+
+## References
+
+- `Crescendo`: https://github.com/Azure/PyRIT/tree/main, https://crescendo-the-multiturn-jailbreak.github.io/assets/pdf/CrescendoFullPaper.pdf
+- `TAP`: https://github.com/marcellopoliti/tree-of-attacks, https://arxiv.org/pdf/2312.02119
+- `CKA-Agent`: https://github.com/Graph-COM/CKA-Agent, https://arxiv.org/pdf/2512.01353
+- `x-teaming`: https://github.com/salman-lui/x-teaming, https://arxiv.org/abs/2504.13203, https://x-teaming.github.io/

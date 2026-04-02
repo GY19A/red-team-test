@@ -1,0 +1,3 @@
+method: CKA-Agent
+enabled: true
+description: Graph-COM CKA-Agent attack workflow.

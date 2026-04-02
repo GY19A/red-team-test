@@ -1,0 +1,11 @@
+defaults:
+  api_style: openai
+  base_url: https://api.deepinfra.com/v1/openai
+
+attackers:
+  qwen-3-32B:
+    model: Qwen/Qwen3-32B
+
+defenders:
+  gpt-oss-120B:
+    model: openai/gpt-oss-120b

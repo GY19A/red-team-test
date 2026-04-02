@@ -1,0 +1,3 @@
+method: Crescendo
+enabled: true
+description: PyRIT-backed Crescendo multi-turn jailbreak workflow.

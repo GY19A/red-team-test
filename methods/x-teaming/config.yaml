@@ -1,0 +1,3 @@
+method: x-teaming
+enabled: true
+description: Reserved for later; multi-agent red-teaming is deferred for cost control.
